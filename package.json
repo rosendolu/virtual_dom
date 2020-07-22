@@ -1,0 +1,29 @@
+{
+	"name": "virtual_dom_practice",
+	"version": "1.0.0",
+	"type": "module",
+	"description": "virtual dom practice",
+	"scripts": {
+		"dev": "parcel index.html",
+		"build": "parcel build index.html"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/rosendolu/virtual_dom.git"
+	},
+	"keywords": [
+		"virtual dom"
+	],
+	"author": "rosendolu",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/rosendolu/virtual_dom/issues"
+	},
+	"homepage": "https://github.com/rosendolu/virtual_dom#readme",
+	"dependencies": {
+		"snabbdom": "^1.0.1"
+	},
+	"devDependencies": {
+		"parcel-bundler": "^1.12.4"
+	}
+}
